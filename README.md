@@ -8,7 +8,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF.svg)](https://kaggle.com/TODO)
 
-**Timur Sabitov** · Syurai Lab · [syurai.ai](https://syurai.ai)
+**Timur Sabitov** · Syurai AI · [syurai.ai](https://syurai.pages.dev)
 
 ---
 
